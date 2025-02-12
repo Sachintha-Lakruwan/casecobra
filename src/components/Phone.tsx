@@ -22,7 +22,6 @@ export default function Phone({
     >
       <div className=" pointer-events-none z-50 select-none relative">
         <img
-          fill
           src={
             dark
               ? "/phone-template-dark-edges.png"
